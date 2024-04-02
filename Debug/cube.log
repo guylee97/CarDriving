@@ -1,0 +1,7 @@
+﻿  cube.cpp
+C:\Users\guyle\Desktop\Portofolio\CarDriving\src\cube.cpp(288,22): warning C4101: 'pvmMat' :참조되지 않은 지역 변수입니다.
+C:\Users\guyle\Desktop\Portofolio\CarDriving\src\cube.cpp(342,22): warning C4101: 'pvmMat' :참조되지 않은 지역 변수입니다.
+C:\Users\guyle\Desktop\Portofolio\CarDriving\src\cube.cpp(342,29): warning C4101: 'carMat' :참조되지 않은 지역 변수입니다.
+C:\Users\guyle\Desktop\Portofolio\CarDriving\src\cube.cpp(342,36): warning C4101: 'groundMat' :참조되지 않은 지역 변수입니다.
+C:\Users\guyle\Desktop\Portofolio\CarDriving\src\cube.cpp(366,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cube.vcxproj -> C:\Users\guyle\Desktop\Portofolio\CarDriving\Debug\cube.exe
